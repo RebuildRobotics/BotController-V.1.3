@@ -2,7 +2,7 @@
 # Rebuild {Robotics} - BotController V.1.3
 ****************************************
 
-"All-In-One" bluetooth controller designed to control Arduino bots with Android smartphone/tablet.
+Free "All-In-One" bluetooth controller designed to control Arduino bots with Android smartphone/tablet.
 
 Controller is specially designed to be used together with our designed ESP32-C3 based combat bot scripts found also from our github pages.
 It can be used also with self made scripts and without using bot configurations in settings.
